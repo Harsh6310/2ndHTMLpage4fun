@@ -82,7 +82,7 @@ p{
 
 .snoop{
   position: absolute;
-  height: 80% ;
+  width: 15% ;
   right: 100px ;
   top: 50px ;
   border-style: groove;
