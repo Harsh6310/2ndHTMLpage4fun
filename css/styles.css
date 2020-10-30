@@ -206,14 +206,14 @@ p{
    -webkit-border-radius: 15px;
    -moz-border-radius: 15px;
    border-radius: 15px;
-   height: 28px;
+   height: 1.75rem;
    line-height: 28px;
    color: #000000;
    font-family: serif;
-   width: 250px;
-   font-size: 25px;
+   width: 15.625rem;
+   font-size: 1.5625rem;
    font-weight: 400;
-   padding: 10px;
+   padding: 0.625rem;
    -webkit-box-shadow: 0 0 12px 0 #F700FF;
    -moz-box-shadow: 0 0 12px 0 #F700FF;
    box-shadow: 0 0 12px 0 #F700FF;
@@ -223,7 +223,7 @@ p{
    display: inline-block;
    cursor: pointer;
    text-align: center;
-   margin-bottom: 10px ;
+   margin-bottom: 0.625rem ;
 }
 
 .BUTTON_ONN:hover {
